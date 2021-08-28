@@ -1,5 +1,8 @@
 # Data science project semester B :mechanical_arm:
 
+### Submitter: Eitan Kats
+
+-----
 ## General overview of the repository:
 
 This project consists of 4 notebooks:
