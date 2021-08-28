@@ -4,13 +4,28 @@
 
 This project consists of 4 notebooks:
 
+------
 1. Classification improvement from semester A
 
 In this semester we talked about ensemble learning, can we use the new ensemble learning methods to improve the word we have done in the previous semester ? 
 
-2. Fashion mnist (without neural networks)
+------
+
+2. Fashion mnist (without neural networks) :womans_clothes:	:jeans:	:dress:	:shorts:	
 
 In this task we had to tackle the Fashion mnist dataset, we had to use the methods that were taught in the first year which means no neural networks.
-tools like : ensemble, PCA, Kmeans, were viable
 
-3. Cats Vs Dogs (without neural networks) :cat:	 :dog:	
+Viable tools: ensemble learning, PCA, Kmeans, openCV
+
+------
+
+3. Cats Vs Dogs (without neural networks) :cat:	 :dog:
+
+we had to classify pictures of cats and dogs from [kaggle](https://www.kaggle.com/c/dogs-vs-cats) without using neural networks.
+
+Viable tools: ensemble learning, PCA, Kmeans, openCV
+
+----
+4. Hand Synchronization
+
+we were given a dataset from an academic study and we had to classify the state of the hands (spontaneous movement, sync movement, alone movement) given the data of 2 hands at a certain point in time.
