@@ -11,7 +11,7 @@ In this semester we talked about ensemble learning, can we use the new ensemble 
 
 ------
 
-2. Fashion mnist (without neural networks) :womans_clothes:	:jeans:	:dress:	:shorts:	
+2. Fashion mnist (Classification  without neural networks) :womans_clothes:	:jeans:	:dress:	:shorts:	
 
 In this task we had to tackle the Fashion mnist dataset, we had to use the methods that were taught in the first year which means no neural networks.
 
@@ -19,7 +19,7 @@ Viable tools: ensemble learning, PCA, Kmeans, openCV
 
 ------
 
-3. Cats Vs Dogs (without neural networks) :cat:	 :dog:
+3. Cats Vs Dogs (Classification without neural networks) :cat:	 :dog:
 
 we had to classify pictures of cats and dogs from [kaggle](https://www.kaggle.com/c/dogs-vs-cats) without using neural networks.
 
