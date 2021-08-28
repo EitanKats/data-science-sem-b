@@ -26,6 +26,6 @@ we had to classify pictures of cats and dogs from [kaggle](https://www.kaggle.co
 Viable tools: ensemble learning, PCA, Kmeans, openCV
 
 ----
-4. Hand Synchronization
+4. Hand Synchronization :point_right:	 :point_left:	 :raised_hands:	
 
 we were given a dataset from an academic study and we had to classify the state of the hands (spontaneous movement, sync movement, alone movement) given the data of 2 hands at a certain point in time.
