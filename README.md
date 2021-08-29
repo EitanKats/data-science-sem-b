@@ -18,7 +18,6 @@ In this semester we talked about ensemble learning, can we use the new ensemble 
 
 In this task we had to tackle the Fashion mnist dataset, we had to use the methods that were taught in the first year which means no neural networks.
 
-Viable tools: ensemble learning, PCA, Kmeans, openCV
 
 ------
 
@@ -26,7 +25,6 @@ Viable tools: ensemble learning, PCA, Kmeans, openCV
 
 we had to classify pictures of cats and dogs from [kaggle](https://www.kaggle.com/c/dogs-vs-cats) without using neural networks.
 
-Viable tools: ensemble learning, PCA, Kmeans, openCV
 
 ----
 4. Hand Synchronization :point_right:	 :point_left:	 :raised_hands:	
