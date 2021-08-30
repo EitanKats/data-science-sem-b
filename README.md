@@ -10,7 +10,7 @@ This project consists of 4 notebooks:
 ------
 1. Classification improvement from semester A
 
-In this semester we talked about ensemble learning, can we use the new ensemble learning methods to improve the word we have done in the previous semester ? 
+In this semester we talked about ensemble learning, can we use the new ensemble learning methods to improve the work from the previous semester ? 
 
 ------
 
